@@ -1,3 +1,4 @@
+Assembly-CSharp.csproj
 Library
 Logs
 Packages
@@ -5,3 +6,4 @@ ProjectSettings
 UserSettings
 .vscode
 obj
+Temp
